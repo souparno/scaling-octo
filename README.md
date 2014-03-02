@@ -10,7 +10,7 @@ Streams
 =======
 o	 Recent<br/>
 o	 Popular<br/>
-o	 Nearby<br/>  
+o	 Nearby<br/>
 o	 Trending<br/> 
 o	 User Activity<br/>   
 o	 My activity<br/> 
