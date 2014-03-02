@@ -8,30 +8,30 @@ features
 
 Streams
 =======
-o	 Recent
-o	 Popular
-o	 Nearby  
-o	 Trending 
-o	 User Activity   
-o	 My activity 
+o	 Recent<br/>
+o	 Popular<br/>
+o	 Nearby<br/>  
+o	 Trending<br/> 
+o	 User Activity<br/>   
+o	 My activity<br/> 
 User (Subjective)
 =================
-o	Like
-o	Flag
-o	Comment
-o	Tag cloud
-o	Suggestions
+o	Like<br/>
+o	Flag<br/>
+o	Comment<br/>
+o	Tag cloud<br/>
+o	Suggestions<br/>
 
 
 
 Technologies 
 =============
-•	Flask (Python)
-•	Mysql
-•	Bootstrap
-•	Jquery
-•	Panoramio API
-•	Facebook Graph API (just for login)
-•	REST Architecture 
+•	Flask (Python)<br/>
+•	Mysql<br/>
+•	Bootstrap<br/>
+•	Jquery<br/>
+•	Panoramio API<br/>
+•	Facebook Graph API (just for login)<br/>
+•	REST Architecture<br/> 
 
 
