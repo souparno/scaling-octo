@@ -1,37 +1,23 @@
-social-mini
-===========
+scalling-octo
+=============
 
-a mini social networking site around panoramio http://www.panoramio.com/ . A user can register and login through facebook and find photos anywhere in the world and comment on a photo
+a scalable micro python-flask application to search a data-base on the categories selected by the user.
+ The search supports both 'And' and 'OR' clause.
 
-features
-========
 
-Streams
-=======
-o	 Recent<br/>
-o	 Popular<br/>
-o	 Nearby<br/>
-o	 Trending<br/> 
-o	 User Activity<br/>
-o	 My activity<br/> 
-User (Subjective)
-=================
-o	Like<br/>
-o	Flag<br/>
-o	Comment<br/>
-o	Tag cloud<br/>
-o	Suggestions<br/>
+Installing and Running
+======================
+The database is provided with 20,000 datas.
+ However if you want to import the datas from the csv file provided run the importdata.py
+ 
+ run the app.py for searching through the data's
 
 
 
 Technologies 
 =============
 •	Flask (Python)<br/>
-•	Mysql<br/>
-•	Bootstrap<br/>
-•	Jquery<br/>
-•	Panoramio API<br/>
-•	Facebook Graph API (just for login)<br/>
+•	SqlLite<br/>
 •	REST Architecture<br/> 
 
 
